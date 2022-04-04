@@ -9,3 +9,9 @@ I'm Saurav, a Frontend Developer from Bangladesh. I spend most of the time with 
 - :computer: &emsp;Most used line of code `console.log("hello world")` 
 - 🌐 &emsp;Visit my portfolio [SAURAVINFO.SITE](http://sauravinfo.site)
 - :e-mail: &emsp;How to reach me: sauravbweb@gmail.com
+
+
+#### Things I code with
+
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravb-git&theme=blue-green)
+
