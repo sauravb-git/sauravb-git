@@ -11,6 +11,14 @@ I'm Saurav, a Frontend Developer from Bangladesh. I spend most of the time with 
 - :e-mail: &emsp;How to reach me: sauravbweb@gmail.com
 
 
+<br />
+
+#### Github Stats
+
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=sauravb-git&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+<br />
+
 #### Things I code with
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravb-git&theme=blue-green)
