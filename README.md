@@ -1,4 +1,4 @@
-## Hi there, I'm Saurav Barua <img src="http://sauravinfo.site/saurav.jpg" width="28px" alt="hi">
+## Hi, I'm Saurav Barua
 
 I'm Saurav, a Frontend Developer from Bangladesh. I spend most of the time with coding. I always try to learn new things everyday and try to implement it own way. JavaScirpt is one of favourite technology, I feel comfortable to work with JS. 
 
