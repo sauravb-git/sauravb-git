@@ -13,6 +13,14 @@ I'm Saurav, a Frontend Developer from Bangladesh. I spend most of the time with 
 
 <br />
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sauravbweb) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravweb/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saurav7510)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravbweb@gmail.com)
+
+
+<br />
+
 #### Github Stats
 
 ![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=sauravb-git&count_private=true&theme=tokyonight&hide=contribs,prs)
