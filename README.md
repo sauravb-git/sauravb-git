@@ -7,7 +7,7 @@ I'm Saurav, a Frontend Developer from Bangladesh. I spend most of the time with 
 
 - :hearts: &emsp;I enjoy programming and think in a different way 
 - :computer: &emsp;Most used line of code `console.log("hello world")` 
-- 🌐 &emsp;Visit my portfolio [SAURAVINFO.SITE](http://sauravbarua.site)
+- 🌐 &emsp;Visit my portfolio [SAURAVBARUA.SITE](http://sauravbarua.site)
 - :e-mail: &emsp;How to reach me: sauravbweb@gmail.com
 
 
